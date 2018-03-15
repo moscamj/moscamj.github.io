@@ -1,0 +1,57 @@
+html {
+  background: #f5f7fa;
+}
+
+body {
+  font-size: 18px;
+}
+
+.container {
+  padding-top: 25px;
+}
+
+.navbar {
+  background: #f5f7fa;
+  padding-bottom: 15px;
+}
+
+.button {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.svg-inline--fa {
+  margin-right: 0.3em;
+}
+
+.is-bg {
+  background-color: #f5f7fa;
+  border-color: transparent;
+  color: #0a0a0a;
+  &:hover {
+    background-color: white;
+    border-color: transparent;
+  }
+  &:active {
+    background-color: white;
+    border-color: transparent;
+  }
+}
+
+.links {
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
+
+#resume-contact {
+  .title:not(:last-child) {
+    margin-bottom: 0.3em;
+  }
+  margin-bottom: 30px;
+}
+
+.content {
+  h3 {
+    font-weight: 500;
+  }
+}

@@ -19,7 +19,7 @@ const ProjectsPage = () => (
           </div>
           <div className="content">
             <h3>
-              <a href="https://github.com/moscamj/moscamj-homepage">Homepage</a>
+              <a href="https://github.com/moscamj/moscamj.github.io/tree/develop">Homepage</a>
             </h3>
             <p>
               This website! Built using <a href="https://www.gatsbyjs.org/">Gatsby</a>, a static PWA

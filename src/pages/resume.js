@@ -11,18 +11,20 @@ const ResumePage = () => (
               <Link to="/" className="button is-large is-bg">
                 <i className="fas fa-arrow-left" />Home
               </Link>
-              <Link to="/" className="button is-large is-bg">
+              <a
+                href="https://github.com/moscamj/moscamj.github.io/raw/master/static/Resume_Matthew_Mosca.pdf"
+                className="button is-large is-bg"
+              >
                 <i className="fas fa-file-pdf" />PDF
-              </Link>
-              <Link to="/" className="button is-large is-bg">
+              </a>
+              <a
+                href="https://github.com/moscamj/moscamj.github.io/raw/master/static/Resume_Matthew_Mosca.docx"
+                className="button is-large is-bg"
+              >
                 <i className="fas fa-file-word" />Word
-              </Link>
+              </a>
             </p>
             <p className="title is-size-2">Matthew Mosca</p>
-            <p>
-              15321 Beach Rd, Chesterfield, VA 23838
-              <br />804 972 3728 - moscamj@vcu.edu
-            </p>
           </div>
           <div className="content">
             <strong>

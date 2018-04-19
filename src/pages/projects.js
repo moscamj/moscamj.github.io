@@ -22,8 +22,8 @@ const ProjectsPage = () => (
               <a href="https://github.com/moscamj/moscamj-homepage">Homepage</a>
             </h3>
             <p>
-              The source behind this website! Built using <a href="https://www.gatsbyjs.org/">Gatsby</a>, a
-              static PWA generator, and <a href="https://bulma.io/">Bulma</a>, a fantastic CSS framework.
+              This website! Built using <a href="https://www.gatsbyjs.org/">Gatsby</a>, a static PWA
+              generator, and <a href="https://bulma.io/">Bulma</a>, a fantastic CSS framework.
             </p>
             <h3>
               <a href="https://github.com/moscamj/cryptodashboard">CryptoDashboard</a> -{' '}

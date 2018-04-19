@@ -10,9 +10,12 @@
     "gatsby-cli": "^1.1.45",
     "gatsby-link": "^1.6.32",
     "gatsby-plugin-react-helmet": "^1.0.8",
-    "gatsby-plugin-sass": "^1.0.15"
+    "gatsby-plugin-sass": "^1.0.15",
+    "npm": "^5.7.1"
   },
-  "keywords": ["gatsby"],
+  "keywords": [
+    "gatsby"
+  ],
   "license": "MIT",
   "main": "n/a",
   "scripts": {
